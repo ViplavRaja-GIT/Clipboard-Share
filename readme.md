@@ -49,7 +49,7 @@ Boom. Your clipboards are now soulmates.
 - Open your firewall, or it stays in the shadows.
 
 ## 👥 Collaborators
-[![ViplavRaja-GIT](https://github.com/ViplavRaja-GIT.png?size=50)](https://github.com/ViplavRaja-GIT)
-[![HarshitRaja1999](https://github.com/HarshitRaja1999.png?size=50)](https://github.com/HarshitRaja1999)
+[![ViplavRaja-GIT](https://github.com/ViplavRaja-GIT.png?size=10)](https://github.com/ViplavRaja-GIT)
+[![HarshitRaja1999](https://github.com/HarshitRaja1999.png?size=10)](https://github.com/HarshitRaja1999)
 
 🔥 Copy something on one machine, it magically appears on the other. No BS. No begging Big Tech for permission.
