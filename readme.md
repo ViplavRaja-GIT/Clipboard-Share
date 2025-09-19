@@ -48,5 +48,8 @@ Boom. Your clipboards are now soulmates.
 - Same --key keeps the link private.
 - Open your firewall, or it stays in the shadows.
 
+## 👥 Collaborators
+[![ViplavRaja-GIT](https://github.com/ViplavRaja-GIT.png?size=50)](https://github.com/ViplavRaja-GIT)
+[![HarshitRaja1999](https://github.com/HarshitRaja1999.png?size=50)](https://github.com/HarshitRaja1999)
 
 🔥 Copy something on one machine, it magically appears on the other. No BS. No begging Big Tech for permission.
