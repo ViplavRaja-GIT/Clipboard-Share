@@ -1,0 +1,20 @@
+{
+  "name": "Clipboard-Share",
+  "version": "1.0.0",
+  "description": "Windows console clipboard sync (text, images, files) over Socket.IO",
+  "type": "module",
+  "main": "clip-sync.js",
+  "scripts": {
+    "start": "node clip-sync.js"
+  },
+  "dependencies": {
+    "adm-zip": "^0.5.10",
+    "clipboardy": "^4.0.0",
+    "fs-extra": "^11.2.0",
+    "minimist": "^1.2.8",
+    "socket.io": "^4.7.5",
+    "socket.io-client": "^4.7.5",
+    "tmp": "^0.2.3",
+    "uuid": "^9.0.1"
+  }
+}
